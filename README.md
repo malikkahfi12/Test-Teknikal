@@ -12,7 +12,7 @@
   - Material Design
   - ViewModel
   
-** View Binding **
+**Data Binding**
 1. Penambahan Data Binding di Layout Source yang diimplementasiikan ke SourceAdapter .
 
 # Screenshoot  
